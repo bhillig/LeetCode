@@ -33,8 +33,3 @@ int getMaxProfit(std::vector<int>& prices)
 
     return currentMaxProfit;
 }
-
-int main(int argc, char** argv)
-{
-    return 0;
-}
