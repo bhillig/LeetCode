@@ -7,6 +7,9 @@
 
 // {[0, 1, 2, 4, 5], target = 3} -> return [2, 3]
 
+// Time Complexity: O(n) -> Linearly traverse nums
+// Space Complexity: O(1) -> Constant amount of memory used for input size n
+
 std::vector<int> twoSum(std::vector<int>& nums, int target)
 {
     // Idea here is to have two pointers, one at the beginning and one at the end
