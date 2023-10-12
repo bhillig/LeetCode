@@ -12,7 +12,7 @@
 /* Time complexity: O(log(n)) */
 /* Space complexity: O(1) */
 
-int findMin(vector<int>& nums) 
+int findMin(std::vector<int>& nums) 
 {
     int min = nums[0];
 
