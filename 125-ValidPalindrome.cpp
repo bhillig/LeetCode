@@ -1,5 +1,8 @@
 // 125 - Valid Palindrome (LeetCode Exercise)
 
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+
 #include <string>
 
 std::string removeSpecialCharacter(std::string s)
